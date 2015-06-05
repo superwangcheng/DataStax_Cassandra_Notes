@@ -17,3 +17,12 @@ Each file corresponds to one module:
   - replication strategy
   - consistency levels
   - repair operations
+  - internodes communications
+
+* **Learning the Cassandra write path**
+  - basic write path concepts
+  - Commitlog
+  - Memtables
+  - SStables and compaction
+  - data files
+  - tombstones and compaction
